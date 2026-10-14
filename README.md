@@ -494,6 +494,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img height="12" width="12" src="https://connection.keboola.com/favicon.ico" alt="Keboola Logo" /> **[Keboola](https://github.com/keboola/keboola-mcp-server)**<sup><sup>⭐</sup></sup> - Build robust data workflows, integrations, and analytics on a single intuitive platform.
 
+- 🧠 **[Kensho Japan Data MCP Bundle](https://github.com/atushi1841/japan-market-mcp)** by @atushi1841 - 16 servers covering Japanese e-commerce (Rakuten, Mercari), real estate, TCG card prices, fuel/utility data, and anime figures. Registry: [registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io)
 <br />
 
 ## 🤖 <a name="robotics"></a>Robotics & Physical AI
