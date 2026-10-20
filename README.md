@@ -530,3 +530,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+---
+
+## Apify Store
+
+このリポジトリの Actor は [Apify Store](https://apify.com/fruitful_quintessence) で公開中です。
+日本の EC・市場データ収集（Mercari, Yahoo Auctions, Rakuten, SUUMO, DLsite 等）に対応した Apify Actor ディレクトリです。
+
+**Search keywords**: Japan market data, Japanese e-commerce scraping, Apify actors, mercari scraper, rakuten scraper, yahoo auctions japan, suumo real estate, dlsite scraper
+
